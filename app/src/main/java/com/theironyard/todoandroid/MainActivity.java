@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         items = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1);
         listView.setAdapter(items);
 
+
     }//End of onCreate Method
 
 
